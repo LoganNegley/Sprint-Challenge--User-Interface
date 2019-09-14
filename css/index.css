@@ -175,6 +175,11 @@ p {
   margin: 0 auto;
 }
 
+.header-image {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
 .top-content {
   display: flex;
   flex-wrap: wrap;
