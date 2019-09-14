@@ -188,10 +188,24 @@ p {
 }
 
 .box button {
-  margin-top: 20px;
+  margin-top: 45px;
   background-color: white;
   border: solid black 1px;
   border-radius: 15%;
   height: 25px;
   width: 100px;
+}
+
+footer nav {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  background-color: black;
+  height: 45px;
+}
+
+footer nav a {
+  margin-right: 75px;
+  text-decoration: none;
+  color: white;
 }
